@@ -17,7 +17,6 @@ Simple, beautiful and free **Vue.js 2.x** **Bulma** **Buefy** admin dashboard fo
 * **SCSS sources** with variables
 * Reusable components
 * Responsive
-* Free under MIT License
 * [Premium versions](https://justboil.me/bulma-admin-template/) available
 
 ## Table of contents
